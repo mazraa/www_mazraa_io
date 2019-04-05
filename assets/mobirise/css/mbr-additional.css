@@ -1908,11 +1908,6 @@ body {
     margin: 0 0.5rem;
   }
 }
-.cid-rm6BenyqcE {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
-}
 .cid-rm7Momh44z {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1993,4 +1988,9 @@ body {
 }
 .cid-rm7Momh44z .media-container-row .mbr-text {
   color: #232323;
+}
+.cid-rm6BenyqcE {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/tf-bg-1-2000x1125.jpg");
 }
